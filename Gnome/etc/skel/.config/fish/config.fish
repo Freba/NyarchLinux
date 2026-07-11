@@ -60,7 +60,7 @@ end
 
 # Fish command history
 function history
-    builtin history --show-time='%F %T '
+    builtin history --show-time='%F %T ' $argv
 end
 
 function backup --argument filename
