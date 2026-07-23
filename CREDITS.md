@@ -4,7 +4,7 @@
 
 [Also take a look at Gnome spin specific credits](https://github.com/NyarchLinux/NyarchLinux/blob/main/Gnome/CREDITS.md)
 ## Art contributors
-- Logo and and distribution name: [Reddit Post](https://www.reddit.com/r/linuxmasterrace/comments/lxfg9j/someone_posted_uwuntu_so_i_made_nyarch/)
+- Logo and distribution name: [Reddit Post](https://www.reddit.com/r/linuxmasterrace/comments/lxfg9j/someone_posted_uwuntu_so_i_made_nyarch/)
 
 - GRUB theme mascot: [Acchan by RavioliMavioli](https://krita-artists.org/t/archlinux-chan/49206)
 
