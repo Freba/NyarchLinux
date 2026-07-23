@@ -15,7 +15,7 @@
 </div>
 
 ## Is it safe to use?
-It is strongly suggested to <b>use another enstablished distribution as daily drive</b>, since Nyarch is not made by a big team of experts. <br />
+It is strongly suggested to <b>use another enstablished distribution as a daily drive</b>, since Nyarch is not made by a big team of experts. <br />
 If you want a similar configuration to what our distro offers out of the box, you can use [Nyarcher](https://github.com/NyarchLinux/Nyarcher), a script to install Nyarch
 customizations on top of any other Linux distro with Gnome pre installed. <br />
 If you want to use it anyways, Nyarch relies on Arch Linux standard repositories, so for normal packages you will receive frequent updates that do not depend on us.
